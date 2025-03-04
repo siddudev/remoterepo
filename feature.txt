@@ -1,2 +1,3 @@
 content is added in master
 content is added in feature
+Sample.txt  feature.txt  master.txt
